@@ -1,4 +1,4 @@
-# sovereign_home_renewal
+# Sovereign_Home_Renewal
 
 ## Project setup
 ```
@@ -19,3 +19,4 @@ yarn run build
 ```
 yarn run lint
 ```
+=======
